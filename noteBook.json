@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "title": "Note 1",
+        "description": "This is the first note",
+        "date": "2022-01-01",
+        "priority": "high"
+    },
+    {
+        "id": "2",
+        "title": "Note 2",
+        "description": "This is the second note",
+        "date": "2022-02-01",
+        "priority": "medium"
+    },
+    {
+        "id": "3",
+        "title": "Note 3",
+        "description": "This is the third note",
+        "date": "2022-03-01",
+        "priority": "low"
+    },
+    {
+        "id": "4",
+        "title": "Note 4",
+        "description": "This is the fourth note",
+        "date": "2022-04-01",
+        "priority": "high"
+    },
+    {
+        "id": "5",
+        "title": "Note 5",
+        "description": "This is the fifth note",
+        "date": "2022-05-01",
+        "priority": "low"
+    }
+]
